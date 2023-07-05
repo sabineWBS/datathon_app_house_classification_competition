@@ -3,5 +3,6 @@ students = [
     "Jörn",
     "Mutale",
     "Mathias",
-    "Derrick"
+    "Derrick",
+    "test"
 ]
