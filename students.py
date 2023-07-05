@@ -1,6 +1,7 @@
 students = [
-    "Mohammad",
-    "Alina",
-    "Beyrouth",
-    "Tomilola"
+    "Belle",
+    "Jörn",
+    "Mutale",
+    "Mathias",
+    "Derrick"
 ]
